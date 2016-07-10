@@ -1,7 +1,6 @@
 package com.sundogsofware.sparkstreaming
 
 import java.util.regex.Pattern
-
 import org.apache.log4j.{Level, Logger}
 
 object Utilities {
